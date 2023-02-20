@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0355377f-0a14-42d5-b73d-d9371119966e" name="Changes" comment="Add GitHub 3" />
+    <list default="true" id="0355377f-0a14-42d5-b73d-d9371119966e" name="Changes" comment="Add GitHub 5">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/Bee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/Mouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/Obstacle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/Pineapple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/Souce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsIfRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsObjectsRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsPrimitive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsPrimitiveRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsReturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsReturnRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsStringRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbles/Bottle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbles/Bubbles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbles/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbles/SparklingWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbles/Water.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayIncrise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArraySquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayUpdateOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayUpdateOrder2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/CycleTaskRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/ForTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cycle_task/WhileTask.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +84,103 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "14",
     "last_opened_file_path": "/Users/dmitryavdeenko/Desktop/GIT/Dmitry_Avdeenko_AT_G7",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.CycleTaskRunner">
+    <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycle_task.CycleTaskRunner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cycle_task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainMethodsIfRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base_task.TrainMethodsIfRunner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base_task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainMethodsObjectsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base_task.TrainMethodsObjectsRunner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base_task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainMethodsPrimitiveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base_task.TrainMethodsPrimitiveRunner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base_task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainMethodsReturnRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base_task.TrainMethodsReturnRunner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base_task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CycleTaskRunner" />
+        <item itemvalue="Application.TrainMethodsObjectsRunner" />
+        <item itemvalue="Application.TrainMethodsIfRunner" />
+        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
+        <item itemvalue="Application.TrainMethodsReturnRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -101,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676894563919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add GitHub 5">
+      <created>1676895638264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676895638264</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +252,7 @@
     <MESSAGE value="Clean GitHub" />
     <MESSAGE value="Clean GitHub 2" />
     <MESSAGE value="Add GitHub 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add GitHub 3" />
+    <MESSAGE value="Add GitHub 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add GitHub 5" />
   </component>
 </project>
