@@ -4,40 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0355377f-0a14-42d5-b73d-d9371119966e" name="Changes" comment="Add GitHub 5">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0355377f-0a14-42d5-b73d-d9371119966e" name="Changes" comment="Git + Bubles">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Bee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Mouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Obstacle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Pineapple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Souce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsIfRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsObjectsRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsPrimitive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsPrimitiveRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsReturn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsReturnRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsStringRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Bottle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Bubbles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/SparklingWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Water.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayIncrise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArraySquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayUpdateOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayUpdateOrder2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/CycleTaskRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ForTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/WhileTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/Bubbles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/SparklingWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/SparklingWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +18,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -80,25 +58,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "14",
-    "last_opened_file_path": "/Users/dmitryavdeenko/Desktop/GIT/Dmitry_Avdeenko_AT_G7",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;14&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dmitryavdeenko/Desktop/GIT/Dmitry_Avdeenko_AT_G7&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CycleTaskRunner">
+}</component>
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cycle_task.CycleTaskRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cycle_task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubbles.Runner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bubbles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrainMethodsReturnRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base_task.TrainMethodsReturnRunner" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base_task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Dmitry_Avdeenko_AT_G7" />
       <method v="2">
@@ -173,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.CycleTaskRunner" />
         <item itemvalue="Application.TrainMethodsObjectsRunner" />
         <item itemvalue="Application.TrainMethodsIfRunner" />
         <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
-        <item itemvalue="Application.TrainMethodsReturnRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +211,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676895638264</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added new files to the project">
+      <created>1676931769616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676931769616</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Git + Bubles">
+      <created>1676938268512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676938268512</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Git + Bubles">
+      <created>1676939129096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676939129096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +240,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hometask_day2_fix_remarks" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -253,6 +265,9 @@
     <MESSAGE value="Clean GitHub 2" />
     <MESSAGE value="Add GitHub 3" />
     <MESSAGE value="Add GitHub 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add GitHub 5" />
+    <MESSAGE value="Added new files to the project" />
+    <MESSAGE value="Git + Bubles" />
+    <MESSAGE value="I've finished task Bubbles_Task_one" />
+    <option name="LAST_COMMIT_MESSAGE" value="I've finished task Bubbles_Task_one" />
   </component>
 </project>
