@@ -2,6 +2,13 @@ package bubbles;
 
 public class Runner {
     public static void main(String[] args) {
+        SparklingWater sparklingWater1 = new SparklingWater("Blue", "medium", "nature", 80, );
+        SparklingWater sparklingWater2 = new SparklingWater();
+
+        Water SparklingWater1;
+        Bottle bottle1 = new Bottle(500, Water water);
+        
+
 
 
     }

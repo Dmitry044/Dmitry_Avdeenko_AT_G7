@@ -4,40 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0355377f-0a14-42d5-b73d-d9371119966e" name="Changes" comment="Add GitHub 5">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0355377f-0a14-42d5-b73d-d9371119966e" name="Changes" comment="Added new files to the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Bee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Mouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Obstacle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Pineapple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/Souce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsIfRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsObjectsRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsPrimitive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsPrimitiveRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsReturn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsReturnRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base_task/TrainMethodsStringRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Bottle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Bubbles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/SparklingWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbles/Water.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayIncrise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArraySquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayUpdateOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ArrayUpdateOrder2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/CycleTaskRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/ForTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cycle_task/WhileTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bubbles/SparklingWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bubbles/SparklingWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -232,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676895638264</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added new files to the project">
+      <created>1676931769616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676931769616</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +236,7 @@
     <MESSAGE value="Clean GitHub 2" />
     <MESSAGE value="Add GitHub 3" />
     <MESSAGE value="Add GitHub 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add GitHub 5" />
+    <MESSAGE value="Added new files to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new files to the project" />
   </component>
 </project>
