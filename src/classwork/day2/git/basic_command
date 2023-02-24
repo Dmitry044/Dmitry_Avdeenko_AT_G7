@@ -1,0 +1,379 @@
+Работа с GIT
+
+
+Last login: Sat Feb 18 10:51:02 on ttys005
+dmitryavdeenko@Dmitrys-MacBook-Pro ~ % ды
+zsh: command not found: ды
+dmitryavdeenko@Dmitrys-MacBook-Pro ~ % ls
+AndroidStudioProjects	Applications		Documents		IdeaProjects		Library			Music			Postman			jmeter.log
+ApkProjects		Desktop			Downloads		Katalon Studio		Movies			Pictures		Public
+dmitryavdeenko@Dmitrys-MacBook-Pro ~ % cd Desktop
+dmitryavdeenko@Dmitrys-MacBook-Pro Desktop % mkdir Git
+mkdir: Git: File exists
+dmitryavdeenko@Dmitrys-MacBook-Pro Desktop % cd Git
+dmitryavdeenko@Dmitrys-MacBook-Pro Git % ls
+AQA_task_1
+dmitryavdeenko@Dmitrys-MacBook-Pro Git % cd Desktop
+cd: no such file or directory: Desktop
+dmitryavdeenko@Dmitrys-MacBook-Pro Git % mkdir Git2
+dmitryavdeenko@Dmitrys-MacBook-Pro Git % cd Git2
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % file
+Usage: file [-bcCdEhikLlNnprsSvzZ0] [--extension] [--mime-encoding]
+            [--mime-type] [-e <testname>] [-F <separator>]  [-f <namefile>]
+            [-m <magicfiles>] [-M magicfiles] [-P <parameter=value>] [--exclude-quiet]
+            <file> ...
+       file -C [-m <magicfiles>]
+       file [--help]
+Try `file --help' for more information.
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % rm file
+rm: file: No such file or directory
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % touch file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls
+file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % rm file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git init
+Initialized empty Git repository in /Users/dmitryavdeenko/Desktop/GIT/Git2/.git/
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls -a
+.	..	.git
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls -la
+total 0
+drwxr-xr-x   3 dmitryavdeenko  staff   96 Feb 18 12:12 .
+drwxr-xr-x   5 dmitryavdeenko  staff  160 Feb 18 12:08 ..
+drwxr-xr-x  10 dmitryavdeenko  staff  320 Feb 18 12:12 .git
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % touch file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % ls
+file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+
+
+No commits yet
+
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	file
+
+
+nothing added to commit but untracked files present (use "git add" to track)
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git add file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+
+
+No commits yet
+
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+
+	new file:   file
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % touch file2
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+
+
+No commits yet
+
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+
+	new file:   file
+
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	file2
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+
+
+No commits yet
+
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+
+	new file:   file
+
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	file2
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git commit -m "I save file"
+[master (root-commit) 39bd09a] I save file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	file2
+
+
+nothing added to commit but untracked files present (use "git add" to track)
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git log
+commit 39bd09a1ecfa60d23ab957bcb031d63938f9705a (HEAD -> master)
+Author: DmitryAvdeenko <DmitryAvdeenko@gmail.com>
+Date:   Sat Feb 18 12:35:19 2023 +0100
+
+
+    I save file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	file2
+
+
+nothing added to commit but untracked files present (use "git add" to track)
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+
+	deleted:    file
+
+
+no changes added to commit (use "git add" and/or "git commit -a")
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git add file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+
+	deleted:    file
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git commit -m "Deleted file"
+[master 42866d4] Deleted file
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git log
+commit 42866d49822572670d2a3da99a8a3ecb45ed6f0f (HEAD -> master)
+Author: DmitryAvdeenko <DmitryAvdeenko@gmail.com>
+Date:   Sat Feb 18 12:41:01 2023 +0100
+
+
+    Deleted file
+
+
+commit 39bd09a1ecfa60d23ab957bcb031d63938f9705a
+Author: DmitryAvdeenko <DmitryAvdeenko@gmail.com>
+Date:   Sat Feb 18 12:35:19 2023 +0100
+
+
+    I save file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git checkout 39bd09a1ecfa60d23ab957bcb031d63938f9705a
+Note: checking out '39bd09a1ecfa60d23ab957bcb031d63938f9705a'.
+
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+
+  git checkout -b <new-branch-name>
+
+
+HEAD is now at 39bd09a... I save file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git clone git@github.com:Dmitry044/Java_AT_G7_test.git
+Cloning into 'Java_AT_G7_test'...
+Enter passphrase for key '/Users/dmitryavdeenko/.ssh/id_ed25519':
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git status
+HEAD detached at 39bd09a
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	Java_AT_G7_test/
+
+
+nothing added to commit but untracked files present (use "git add" to track)
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % git log
+commit 39bd09a1ecfa60d23ab957bcb031d63938f9705a (HEAD)
+Author: DmitryAvdeenko <DmitryAvdeenko@gmail.com>
+Date:   Sat Feb 18 12:35:19 2023 +0100
+
+
+    I save file
+dmitryavdeenko@Dmitrys-MacBook-Pro Git2 % cd Java_AT_G7_test
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % ls
+README.md
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git log
+commit bed114b32a02d6035a36fb3f7e50c57fbd26b1be (HEAD -> main, origin/main, origin/HEAD)
+Author: Dmitry044 <85784218+Dmitry044@users.noreply.github.com>
+Date:   Sat Feb 18 11:46:14 2023 +0100
+
+
+    Initial commit
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % touch file4
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % ls
+README.md	file4
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git add .
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % touch file5
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+
+	new file:   file4
+
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+
+	file5
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git add .
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+
+	new file:   file4
+	new file:   file5
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git commit -m "Adding new files in main"
+[main f1f1abc] Adding new files in main
+ 2 files changed, 1 insertion(+)
+ create mode 100644 file4
+ create mode 100644 file5
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git log
+commit f1f1abcd841fa071da3cb7a9165978417689e0e2 (HEAD -> main)
+Author: DmitryAvdeenko <DmitryAvdeenko@gmail.com>
+Date:   Sat Feb 18 13:13:26 2023 +0100
+
+
+    Adding new files in main
+
+
+commit bed114b32a02d6035a36fb3f7e50c57fbd26b1be (origin/main, origin/HEAD)
+Author: Dmitry044 <85784218+Dmitry044@users.noreply.github.com>
+Date:   Sat Feb 18 11:46:14 2023 +0100
+
+
+    Initial commit
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git push origin main
+Enter passphrase for key '/Users/dmitryavdeenko/.ssh/id_ed25519':
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 322 bytes | 322.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To github.com:Dmitry044/Java_AT_G7_test.git
+   bed114b..f1f1abc  main -> main
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git checkout-b
+git: 'checkout-b' is not a git command. See 'git --help'.
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git checkout-b dev
+git: 'checkout-b' is not a git command. See 'git --help'.
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git checkout -b dev
+Switched to a new branch 'dev'
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git branch
+* dev
+  main
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git checkout -b main
+fatal: A branch named 'main' already exists.
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git branch
+  dev
+* main
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git checkout dev
+Switched to branch 'dev'
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git push dev
+fatal: 'dev' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+
+Please make sure you have the correct access rights
+and the repository exists.
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git push origin dev
+Enter passphrase for key '/Users/dmitryavdeenko/.ssh/id_ed25519':
+Total 0 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'dev' on GitHub by visiting:
+remote:      https://github.com/Dmitry044/Java_AT_G7_test/pull/new/dev
+remote:
+To github.com:Dmitry044/Java_AT_G7_test.git
+ * [new branch]      dev -> dev
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git status
+On branch dev
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+
+	modified:   file5
+
+
+no changes added to commit (use "git add" and/or "git commit -a")
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git commin -m "Add one more commit"
+git: 'commin' is not a git command. See 'git --help'.
+
+
+The most similar command is
+	commit
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git push
+fatal: The current branch dev has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+
+    git push --set-upstream origin dev
+
+
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test % git pull origin
+Enter passphrase for key '/Users/dmitryavdeenko/.ssh/id_ed25519':
+You asked to pull from the remote 'origin', but did not specify
+a branch. Because this is not the default configured remote
+for your current branch, you must specify a branch on the command line.
+dmitryavdeenko@Dmitrys-MacBook-Pro Java_AT_G7_test %
