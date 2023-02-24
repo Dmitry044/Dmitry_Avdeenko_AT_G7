@@ -1,1 +1,0 @@
-# Dmitry_Avdeenko_AT_G7
