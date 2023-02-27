@@ -1,3 +1,4 @@
+/*
 package project.runner;
 
 import project.boxing.Bottle;
@@ -16,3 +17,4 @@ public class Runner {
         bottle3.open();
     }
 }
+*/

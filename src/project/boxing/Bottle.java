@@ -1,3 +1,4 @@
+/*
 package project.boxing;
 
 import project.composition.Bubble;
@@ -46,4 +47,4 @@ public class Bottle {
 //
 //------ есть публичный метод void warm(int temperature), который устанавливает температуру воды в бутылке
 //------ есть публичный метод Water getWater() возвращающий обьект воды
-//------ есть публичный метод setWater(Water water) добавляющий новый обьект воды
+//------ есть публичный метод setWater(Water water) добавляющий новый обьект воды*/
