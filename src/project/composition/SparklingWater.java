@@ -1,3 +1,4 @@
+/*
 package project.composition;
 
 public class SparklingWater extends Water {
@@ -54,13 +55,14 @@ public class SparklingWater extends Water {
                 e.printStackTrace();
             }
         }
-        });
+        }
         thread.start();
         }
 
 
 
-    /*public void degas() {
+    */
+/*public void degas() {
         int batchSize = 10 + 5 * getTemperature();
         int count = 0;
         while (bubbles != null && count < bubbles.length) {
@@ -75,7 +77,8 @@ public class SparklingWater extends Water {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
-            }*/
+            }*//*
+
 
 
 
@@ -91,3 +94,4 @@ public class SparklingWater extends Water {
 //-- каждый метод должен содержать сообщение о том, что он делает, например:
 //System.out.printf("Warming water to: %s", temperature).println();
 //-- сообщения должны быть написаны 1-й строкой System.out.print* (пример см строкой выше)
+*/
