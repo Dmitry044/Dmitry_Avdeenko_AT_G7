@@ -1,4 +1,6 @@
 package homework.day4.playground.essence.craft.field;
 
-public class Vehicle {
+import homework.day4.playground.essence.Matter;
+
+public abstract class Vehicle extends Matter {
 }
