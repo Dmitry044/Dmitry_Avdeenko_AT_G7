@@ -9,7 +9,8 @@ public class Fly extends Insect implements Flyable {
     }
 
     @Override
-    public void fly() {
-        System.out.println("Fly " + name + " is flying");
+    public void fly(String direction) {
+        //System.out.println("Fly " + name + " is flying");
+        System.out.println("I am " + getClass().getSimpleName() + ", my name is " + name + " and I am flying to " + direction);
     }
 }
