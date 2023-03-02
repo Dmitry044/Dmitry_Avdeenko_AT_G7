@@ -3,6 +3,7 @@ package homework.day4.playground.essence.creatures.playground;
 import homework.day4.playground.essence.creatures.Crawlable;
 import homework.day4.playground.essence.creatures.Insect;
 
+
 public class Beetle extends Insect implements Crawlable {
 
     public Beetle(int mass, String name) {

@@ -16,7 +16,7 @@ public class RunnerEzh {
 
 
         //doTest("yy", "error");
-        doSomething(Ezh ezh);
+        //doSomething(Ezh ezh);
 
 
         if (ezh.age == ezh2.age && ezh.name.equals(ezh2.name)) {
