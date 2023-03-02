@@ -1,8 +1,10 @@
 package homework.day4.playground.essence.craft.air;
 
+import homework.day4.playground.essence.Flyable;
 import homework.day4.playground.essence.Matter;
+import homework.day4.playground.essence.craft.Transportable;
 
-public abstract class Aircraft extends Matter {
+public abstract class Aircraft extends Matter implements Flyable, Transportable {
 
     protected String name;
 
@@ -17,5 +19,15 @@ public abstract class Aircraft extends Matter {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public void fly() {
+        System.out.println("Aircraft " + name + " is flying");
+    }
+
+    @Override
+    public void move() {
+        System.out.println("Aircraft " + name + " is moving");
     }
 }
