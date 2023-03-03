@@ -1,5 +1,7 @@
 package homework.day4.playground.essence.craft;
 
 public interface Transportable {
-    void move ();
+    //void move ();
+
+    int move(int pointA, int pointB);
 }
