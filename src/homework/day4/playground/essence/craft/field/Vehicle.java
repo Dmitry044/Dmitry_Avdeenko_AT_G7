@@ -33,10 +33,10 @@ public abstract class Vehicle extends Matter implements Transportable, Rideable 
         return pointB - pointA;
     }
 
-    @Override
+    /*@Override
     public void ride() {
         System.out.println("Vehicle " + name + " is riding");
-    }
+    }*/
 
     @Override
     public void drive(String direction) {
