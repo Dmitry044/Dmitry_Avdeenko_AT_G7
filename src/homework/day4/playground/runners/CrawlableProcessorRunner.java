@@ -29,5 +29,20 @@ public class CrawlableProcessorRunner {
                         this.getClass().getSimpleName(), name, direction, distance);
             }
         };
+
+        crawlableProcessor.runCrawlable(crawlableCrocodile);
+        crawlableProcessor.runCrawlable(crawlableBeetle);
+        //crawlableProcessor.runCrawlable(vertebrataCrocodile); //выяснить почему не принимает объект
+        //crawlableProcessor.runCrawlable(insectBeetle);
+        crawlableProcessor.runCrawlable(aCrocodile);
+        crawlableProcessor.runCrawlable(aBeetle);
+
+        crawlableProcessor.runCrawlable(crawlableBeetle, "никуда");
+        crawlableProcessor.runCrawlable(crawlableBeetle, "налево");
+
+        crawlableProcessor.runCrawlable(crawlableCrocodile, "назад", 37);
+
+        crawlableProcessor.runCrawlable(anonymousCrawlable, "вниз", 37);
+
     }
 }
