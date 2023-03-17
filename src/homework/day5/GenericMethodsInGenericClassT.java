@@ -3,7 +3,7 @@ package homework.day5;
 public class GenericMethodsInGenericClassT<T> {
 
     public void genericMethodOneGenArg(T obj) {
-        System.out.println("I am an object of " + obj.getClass().getName() + " class");
+        System.out.println("I am an object of " + obj.getClass().getSimpleName() + " class");
     }
 
     public String genericMethodTwoGenArgs(T obj1, T obj2) {
