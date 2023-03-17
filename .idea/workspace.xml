@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="git update" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="today's work">
+      <change afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTRunner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +32,19 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2872394e-ae93-4b32-833e-6f3a5c356f40" />
+        <option name="url" value="git@github.com:Dmitry044/Dmitry_Avdeenko_AT_G7.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -36,13 +56,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayExercise">
-    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day3.array_exercise.ArrayExercise" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTRunner">
+    <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day4.playground.runners.FlyableProcessorRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day3.array_exercise.*" />
+          <option name="PATTERN" value="homework.day4.playground.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day1.array.CreateArray" />
+    <configuration name="GenericMethodsInGenericClassTRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day5.GenericMethodsInGenericClassTRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day1.array.*" />
+          <option name="PATTERN" value="homework.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dollar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day1.array.Dollar" />
+    <configuration name="ObjectContainerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day5.ObjectContainerRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day1.array.*" />
+          <option name="PATTERN" value="classwork.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethodsInGenericClassTRunner" />
         <item itemvalue="Application.TrainMethodsIfRunner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Dollar" />
-        <item itemvalue="Application.CreateArray" />
-        <item itemvalue="Application.ArrayExercise" />
+        <item itemvalue="Application.ObjectContainerRunner" />
+        <item itemvalue="Application.FlyableProcessorRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +180,154 @@
       <option name="project" value="LOCAL" />
       <updated>1677262832416</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="The array task + cow is completed">
+      <created>1677271131627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677271131627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="The bottle class is updated">
+      <created>1677275427448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677275427448</updated>
+    </task>
+    <task id="LOCAL-00009" summary="The bubble class is updated">
+      <created>1677276512007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677276512008</updated>
+    </task>
+    <task id="LOCAL-00010" summary="The bubble class is updated+">
+      <created>1677283123186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677283123186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Classwork_27_02">
+      <created>1677498117587</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677498117588</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create_packages_and_classes">
+      <created>1677542170222</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677542170222</updated>
+    </task>
+    <task id="LOCAL-00013" summary="I've finished playground task">
+      <created>1677609450456</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677609450457</updated>
+    </task>
+    <task id="LOCAL-00014" summary="I've finished 2.1-2.3">
+      <created>1677621960420</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677621960421</updated>
+    </task>
+    <task id="LOCAL-00015" summary="I've finished task 2 (question regarding carrot mass)">
+      <created>1677713101083</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677713101085</updated>
+    </task>
+    <task id="LOCAL-00016" summary="I've finished task 3">
+      <created>1677791219617</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677791219617</updated>
+    </task>
+    <task id="LOCAL-00017" summary="I've finished task 4">
+      <created>1677800946851</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677800946852</updated>
+    </task>
+    <task id="LOCAL-00018" summary="I've finished task 5">
+      <created>1677885228633</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677885228633</updated>
+    </task>
+    <task id="LOCAL-00019" summary="The part two_not full">
+      <created>1677969088825</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677969088826</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Done_task6_1">
+      <created>1678056681428</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678056681428</updated>
+    </task>
+    <task id="LOCAL-00021" summary="The task_6 is done">
+      <created>1678229801601</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678229801601</updated>
+    </task>
+    <task id="LOCAL-00022" summary="The task_7">
+      <created>1678317530319</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678317530319</updated>
+    </task>
+    <task id="LOCAL-00023" summary="String_task_printDublicateWorlds">
+      <created>1678488925099</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678488925099</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Task_seven_done">
+      <created>1678493325039</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678493325039</updated>
+    </task>
+    <task id="LOCAL-00025" summary="classwork_day6">
+      <created>1678826149979</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678826149980</updated>
+    </task>
+    <task id="LOCAL-00026" summary="task_one">
+      <created>1678921949859</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678921949859</updated>
+    </task>
+    <task id="LOCAL-00027" summary="today's work">
+      <created>1679085911958</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679085911958</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,11 +342,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new version 1" />
     <MESSAGE value="new version 2" />
     <MESSAGE value="new version 3" />
     <MESSAGE value="git clean" />
     <MESSAGE value="git update" />
-    <option name="LAST_COMMIT_MESSAGE" value="git update" />
+    <MESSAGE value="The array task + cow is completed" />
+    <MESSAGE value="The bottle class is updated" />
+    <MESSAGE value="The bubble class is updated" />
+    <MESSAGE value="The bubble class is updated+" />
+    <MESSAGE value="Classwork_27_02" />
+    <MESSAGE value="Create_packages_and_classes" />
+    <MESSAGE value="I've finished playground task" />
+    <MESSAGE value="I've finished 2.1-2.3" />
+    <MESSAGE value="I've finished task 2 (question regarding carrot mass)" />
+    <MESSAGE value="I've finished task 3" />
+    <MESSAGE value="I've finished task 4" />
+    <MESSAGE value="I've finished task 5" />
+    <MESSAGE value="The part two_not full" />
+    <MESSAGE value="Done_task6_1" />
+    <MESSAGE value="The task_6 is done" />
+    <MESSAGE value="The task_7" />
+    <MESSAGE value="String_task_printDublicateWorlds" />
+    <MESSAGE value="Task_seven_done" />
+    <MESSAGE value="classwork_day6" />
+    <MESSAGE value="task_one" />
+    <MESSAGE value="today's work" />
+    <option name="LAST_COMMIT_MESSAGE" value="today's work" />
   </component>
 </project>
