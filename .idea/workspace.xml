@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="today's work">
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParamsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +29,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -61,13 +58,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTRunner">
-    <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day4.playground.runners.FlyableProcessorRunner" />
+  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTwoParamsRunner">
+    <configuration name="GenericMethodsInGenericClassTRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day5.GenericMethodsInGenericClassTRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day4.playground.runners.*" />
+          <option name="PATTERN" value="homework.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMethodsInGenericClassTRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day5.GenericMethodsInGenericClassTRunner" />
+    <configuration name="GenericMethodsInGenericClassTwoParamsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day5.GenericMethodsInGenericClassTwoParamsRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethodsInGenericClassTwoParamsRunner" />
         <item itemvalue="Application.GenericMethodsInGenericClassTRunner" />
         <item itemvalue="Application.TrainMethodsIfRunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.ObjectContainerRunner" />
-        <item itemvalue="Application.FlyableProcessorRunner" />
       </list>
     </recent_temporary>
   </component>
