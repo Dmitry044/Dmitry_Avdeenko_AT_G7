@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="today's work">
+      <change afterPath="$PROJECT_DIR$/src/classwork/day7/MyArray_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day7/MySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day7/TwoArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParamsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTwoParamsRunner">
+  <component name="RunManager" selected="Application.MySet">
     <configuration name="GenericMethodsInGenericClassTRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day5.GenericMethodsInGenericClassTRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectContainerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day5.ObjectContainerRunner" />
+    <configuration name="MyArray_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day7.MyArray_list" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day5.*" />
+          <option name="PATTERN" value="classwork.day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.runner.Runner" />
+    <configuration name="MySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day7.MySet" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.runner.*" />
+          <option name="PATTERN" value="classwork.day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrainMethodsIfRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day1.base_task.TrainMethodsIfRunner" />
+    <configuration name="TwoArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day7.TwoArrayList" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day1.base_task.*" />
+          <option name="PATTERN" value="classwork.day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MySet" />
+        <item itemvalue="Application.TwoArrayList" />
+        <item itemvalue="Application.MyArray_list" />
         <item itemvalue="Application.GenericMethodsInGenericClassTwoParamsRunner" />
         <item itemvalue="Application.GenericMethodsInGenericClassTRunner" />
-        <item itemvalue="Application.TrainMethodsIfRunner" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.ObjectContainerRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679085911958</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Generic_task_two">
+      <created>1679098378121</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679098378121</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +348,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new version 2" />
     <MESSAGE value="new version 3" />
     <MESSAGE value="git clean" />
     <MESSAGE value="git update" />
@@ -364,6 +372,7 @@
     <MESSAGE value="classwork_day6" />
     <MESSAGE value="task_one" />
     <MESSAGE value="today's work" />
-    <option name="LAST_COMMIT_MESSAGE" value="today's work" />
+    <MESSAGE value="Generic_task_two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic_task_two" />
   </component>
 </project>
