@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task_one">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/Sand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myButterflies.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Exercise_one">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myButterflies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyButterflies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myButterflies">
+  <component name="RunManager" selected="Application.MyFigures">
+    <configuration name="MyButterflies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyButterflies" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classwork.day8.MyColors" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -77,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyHashMap" />
+    <configuration name="MyFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyFigures" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myButterflies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.myButterflies" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day6.newClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.myButterflies" />
+        <item itemvalue="Application.MyFigures" />
+        <item itemvalue="Application.MyButterflies" />
         <item itemvalue="Application.MyVegetables" />
         <item itemvalue="Application.MyNames" />
         <item itemvalue="Application.MyColors" />
-        <item itemvalue="Application.MyHashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679258242956</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Exercise_one">
+      <created>1679349556306</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679349556307</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,8 +361,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="git update" />
-    <MESSAGE value="The array task + cow is completed" />
     <MESSAGE value="The bottle class is updated" />
     <MESSAGE value="The bubble class is updated" />
     <MESSAGE value="The bubble class is updated+" />
@@ -383,6 +384,8 @@
     <MESSAGE value="Generic_task_two" />
     <MESSAGE value="Classwork_day8" />
     <MESSAGE value="Task_one" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_one" />
+    <MESSAGE value="Task_one_2" />
+    <MESSAGE value="Exercise_one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise_one" />
   </component>
 </project>
