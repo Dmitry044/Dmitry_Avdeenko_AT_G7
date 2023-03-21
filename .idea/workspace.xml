@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Exercise_two">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter">
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679352901651</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter">
+      <created>1679423854239</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679423854242</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,7 +373,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The bubble class is updated" />
     <MESSAGE value="The bubble class is updated+" />
     <MESSAGE value="Classwork_27_02" />
     <MESSAGE value="Create_packages_and_classes" />
@@ -391,6 +397,7 @@
     <MESSAGE value="Task_one_2" />
     <MESSAGE value="Exercise_one" />
     <MESSAGE value="Exercise_two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise_two" />
+    <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
   </component>
 </project>

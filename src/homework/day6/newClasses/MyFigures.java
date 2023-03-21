@@ -32,7 +32,7 @@ public class MyFigures {
         }
         System.out.println();
 
-        figures.set(3, "Треугольник");
+        figures.add(3, "Треугольник");
 
         for (String words : figures) {
             System.out.print(words + " ");
