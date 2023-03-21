@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="today's work">
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyVegetables.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Remark: Заменил set на add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +58,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyVegetables">
-    <configuration name="MyArray_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day7.MyArray_list" />
+  <component name="RunManager" selected="Application.MyFigures">
+    <configuration name="MyButterflies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyButterflies" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day7.*" />
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyHashMap" />
+    <configuration name="MyFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyFigures" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFigures" />
+        <item itemvalue="Application.MyButterflies" />
         <item itemvalue="Application.MyVegetables" />
         <item itemvalue="Application.MyNames" />
         <item itemvalue="Application.MyColors" />
-        <item itemvalue="Application.MyHashMap" />
-        <item itemvalue="Application.MyArray_list" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +331,42 @@
       <option name="project" value="LOCAL" />
       <updated>1679098378121</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Classwork_day8">
+      <created>1679258242956</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679258242956</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Exercise_one">
+      <created>1679349556306</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679349556307</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Exercise_two">
+      <created>1679352901651</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679352901651</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter">
+      <created>1679423854239</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679423854242</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Remark: Заменил set на add">
+      <created>1679424163894</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679424163895</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,13 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new version 3" />
-    <MESSAGE value="git clean" />
-    <MESSAGE value="git update" />
-    <MESSAGE value="The array task + cow is completed" />
-    <MESSAGE value="The bottle class is updated" />
-    <MESSAGE value="The bubble class is updated" />
-    <MESSAGE value="The bubble class is updated+" />
     <MESSAGE value="Classwork_27_02" />
     <MESSAGE value="Create_packages_and_classes" />
     <MESSAGE value="I've finished playground task" />
@@ -374,6 +399,13 @@
     <MESSAGE value="task_one" />
     <MESSAGE value="today's work" />
     <MESSAGE value="Generic_task_two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic_task_two" />
+    <MESSAGE value="Classwork_day8" />
+    <MESSAGE value="Task_one" />
+    <MESSAGE value="Task_one_2" />
+    <MESSAGE value="Exercise_one" />
+    <MESSAGE value="Exercise_two" />
+    <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
+    <MESSAGE value="Remark: Заменил set на add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remark: Заменил set на add" />
   </component>
 </project>
