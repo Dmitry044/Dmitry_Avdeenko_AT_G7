@@ -32,11 +32,17 @@ public class MyFigures {
         }
         System.out.println();
 
-        figures.add(3, "Треугольник");
+        try {
+            figures.add(3, "Треугольник");
 
-        for (String words : figures) {
-            System.out.print(words + " ");
+            for (String words : figures) {
+                System.out.print(words + " ");
+            }
+
+        } catch (Exception e) {
+            System.out.println("Нельзя добавлять в лист");;
         }
+
     }
 }
 

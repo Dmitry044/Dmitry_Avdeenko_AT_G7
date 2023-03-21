@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter">
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Remark: Заменил set на add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -358,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679423854242</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Remark: Заменил set на add">
+      <created>1679424163894</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679424163895</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,7 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The bubble class is updated+" />
     <MESSAGE value="Classwork_27_02" />
     <MESSAGE value="Create_packages_and_classes" />
     <MESSAGE value="I've finished playground task" />
@@ -398,6 +405,7 @@
     <MESSAGE value="Exercise_one" />
     <MESSAGE value="Exercise_two" />
     <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
+    <MESSAGE value="Remark: Заменил set на add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remark: Заменил set на add" />
   </component>
 </project>
