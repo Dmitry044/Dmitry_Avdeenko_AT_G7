@@ -10,7 +10,6 @@ public class MyFigures {
     public static void main(String[] args) {
         List<String> figures = Arrays.asList("Овал", "Прямоугольник", "Круг", "Квадрат", "Эллипс");
 
-
         try (PrintWriter writer = new PrintWriter("figures.txt")) {
             for (String figure : figures) {
                 writer.print(figure + "-");
@@ -40,9 +39,8 @@ public class MyFigures {
             }
 
         } catch (Exception e) {
-            System.out.println("Нельзя добавлять в лист");;
+            System.out.println("Нельзя добавлять в лист");
         }
-
     }
 }
 
