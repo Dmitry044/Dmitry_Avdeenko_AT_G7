@@ -25,8 +25,7 @@ public class MyFigures {
                 counter++;
             }
         }
-        System.out.print("Количество фигур, не содержащих букву 'и': " + counter);
-        System.out.println();
+        System.out.print("Количество фигур, не содержащих букву 'и': " + counter + "\n");
 
         for (int i = 0; i < figures.size(); i++) {
             System.out.print(figures.get(i) + " ");

@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Exercise_one">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Exercise_two">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myButterflies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyButterflies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679349556307</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Exercise_two">
+      <created>1679352901651</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679352901651</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,7 +366,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The bottle class is updated" />
     <MESSAGE value="The bubble class is updated" />
     <MESSAGE value="The bubble class is updated+" />
     <MESSAGE value="Classwork_27_02" />
@@ -386,6 +390,7 @@
     <MESSAGE value="Task_one" />
     <MESSAGE value="Task_one_2" />
     <MESSAGE value="Exercise_one" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise_one" />
+    <MESSAGE value="Exercise_two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise_two" />
   </component>
 </project>
