@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Done_task3">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myCars.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Done_task4">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myCountries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,22 +58,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myCars">
+  <component name="RunManager" selected="Application.myCountries">
     <configuration name="MyCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCities" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day6.newClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyFigures" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -124,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="myCountries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.myCountries" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myCountries" />
         <item itemvalue="Application.myCars" />
         <item itemvalue="Application.MyCities" />
         <item itemvalue="Application.MyVegetables" />
         <item itemvalue="Application.MyNames" />
-        <item itemvalue="Application.MyFigures" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679514973271</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Done_task4">
+      <created>1679518511098</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1679518511099</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create_packages_and_classes" />
     <MESSAGE value="I've finished playground task" />
     <MESSAGE value="I've finished 2.1-2.3" />
     <MESSAGE value="I've finished task 2 (question regarding carrot mass)" />
@@ -413,6 +419,7 @@
     <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
     <MESSAGE value="Remark: Заменил set на add" />
     <MESSAGE value="Done_task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done_task3" />
+    <MESSAGE value="Done_task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done_task4" />
   </component>
 </project>
