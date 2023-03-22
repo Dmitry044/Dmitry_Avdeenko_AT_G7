@@ -25,7 +25,7 @@ public class myCountries {
         }
         System.out.println(count);
 
-        for(int i = 0; i < countries.size(); i++){
+        for (int i = 0; i < countries.size(); i++) {
             System.out.println(countries.get(i));
         }
     }

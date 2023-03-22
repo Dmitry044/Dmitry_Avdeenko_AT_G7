@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Done_task4">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myCountries.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Done_task5">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myBird.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myCountries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myCountries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myCountries">
+  <component name="RunManager" selected="Application.myBird">
     <configuration name="MyCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCities" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -72,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyNames" />
+    <configuration name="MyVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyVegetables" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyVegetables" />
+    <configuration name="myBird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.myBird" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myBird" />
         <item itemvalue="Application.myCountries" />
         <item itemvalue="Application.myCars" />
         <item itemvalue="Application.MyCities" />
         <item itemvalue="Application.MyVegetables" />
-        <item itemvalue="Application.MyNames" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679518511099</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Done_task5">
+      <created>1679522296369</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1679522296369</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I've finished playground task" />
     <MESSAGE value="I've finished 2.1-2.3" />
     <MESSAGE value="I've finished task 2 (question regarding carrot mass)" />
     <MESSAGE value="I've finished task 3" />
@@ -420,6 +427,7 @@
     <MESSAGE value="Remark: Заменил set на add" />
     <MESSAGE value="Done_task3" />
     <MESSAGE value="Done_task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done_task4" />
+    <MESSAGE value="Done_task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done_task5" />
   </component>
 </project>
