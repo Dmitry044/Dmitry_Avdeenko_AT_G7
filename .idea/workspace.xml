@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Remark: Заменил set на add">
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Remark: добавил try">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyCities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFigures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +58,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFigures">
-    <configuration name="MyButterflies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyButterflies" />
+  <component name="RunManager" selected="Application.MyCities">
+    <configuration name="MyCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCities" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -126,10 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyFigures" />
-        <item itemvalue="Application.MyButterflies" />
+        <item itemvalue="Application.MyCities" />
         <item itemvalue="Application.MyVegetables" />
         <item itemvalue="Application.MyNames" />
+        <item itemvalue="Application.MyFigures" />
         <item itemvalue="Application.MyColors" />
       </list>
     </recent_temporary>
