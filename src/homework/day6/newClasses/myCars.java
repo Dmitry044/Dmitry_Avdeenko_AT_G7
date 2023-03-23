@@ -15,6 +15,7 @@ public class myCars {
         cars.add("Жигуль");
         cars.add("Рено");
         cars.add("Жигуль");
+        cars.add("Жигуль");
         cars.add("Ауди");
 
         try (PrintWriter writer = new PrintWriter("cars.txt")) {
