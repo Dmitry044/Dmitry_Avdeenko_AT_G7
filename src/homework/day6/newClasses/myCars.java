@@ -20,7 +20,7 @@ public class myCars {
 
         try (PrintWriter writer = new PrintWriter("cars.txt")) {
             for (String car : cars) {
-                writer.println("\"" + car + "\"");
+                writer.println("-" + " " + "\"" + car + "\"");
             }
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
