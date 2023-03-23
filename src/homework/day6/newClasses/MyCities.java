@@ -21,7 +21,7 @@ public class MyCities {
         System.out.println(counter);
 
         for (int i = 0; i < cities.size(); i++) {
-            System.out.println(cities.get(i) + " ");
+            System.out.print(cities.get(i) + " ");
         }
     }
 }
