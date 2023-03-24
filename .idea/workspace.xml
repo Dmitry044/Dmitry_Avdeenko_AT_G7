@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 7">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyNumbers.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 8">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyDoubles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyBird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyCars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myCountries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyCountries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +58,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyNumbers">
-    <configuration name="MyBird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyBird" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day6.newClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MyDoubles">
     <configuration name="MyCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCars" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -90,6 +74,19 @@
     </configuration>
     <configuration name="MyCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCities" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyDoubles" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyDoubles" />
         <item itemvalue="Application.MyNumbers" />
         <item itemvalue="Application.MyElements" />
         <item itemvalue="Application.MyCars" />
         <item itemvalue="Application.MyCities" />
-        <item itemvalue="Application.MyBird" />
       </list>
     </recent_temporary>
   </component>
@@ -376,12 +373,12 @@
       <option name="project" value="LOCAL" />
       <updated>1679651603528</updated>
     </task>
-    <task id="LOCAL-00035" summary="Done_task4">
-      <created>1679518511098</created>
+    <task id="LOCAL-00035" summary="Task 8">
+      <created>1679682511362</created>
       <option name="number" value="00035" />
       <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1679518511099</updated>
+      <updated>1679682511363</updated>
     </task>
     <task id="LOCAL-00036" summary="Done_task5">
       <created>1679522296369</created>
@@ -418,7 +415,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679574364241</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,8 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The part two_not full" />
-    <MESSAGE value="Done_task6_1" />
     <MESSAGE value="The task_6 is done" />
     <MESSAGE value="The task_7" />
     <MESSAGE value="String_task_printDublicateWorlds" />
@@ -464,6 +459,7 @@
     <MESSAGE value="The remark is fixed: &quot;добавить жигуль&quot;" />
     <MESSAGE value="The remark is fixed: &quot;добавить тире&quot;" />
     <MESSAGE value="Task 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 7" />
+    <MESSAGE value="Task 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 8" />
   </component>
 </project>
