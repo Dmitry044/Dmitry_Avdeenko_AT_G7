@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 13">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MySandbox.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 14">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyFurniture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MySandbox">
+  <component name="RunManager" selected="Application.MyFurniture">
     <configuration name="MyBubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyBubles" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyNoodles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyNoodles" />
+    <configuration name="MyFurniture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyFurniture" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFurniture" />
         <item itemvalue="Application.MySandbox" />
         <item itemvalue="Application.MyWater" />
         <item itemvalue="Application.MyPeople" />
         <item itemvalue="Application.MyBubles" />
-        <item itemvalue="Application.MyNoodles" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679692548864</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Task 14">
+      <created>1679694190631</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679694190632</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task_one_2" />
     <MESSAGE value="Exercise_one" />
     <MESSAGE value="Exercise_two" />
     <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
@@ -455,6 +461,7 @@
     <MESSAGE value="Task 11" />
     <MESSAGE value="Task 12" />
     <MESSAGE value="Task 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 13" />
+    <MESSAGE value="Task 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 14" />
   </component>
 </project>
