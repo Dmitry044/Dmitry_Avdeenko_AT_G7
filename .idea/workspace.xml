@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 11">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 12">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyPeople">
+  <component name="RunManager" selected="Application.MyWater">
     <configuration name="MyBubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyBubles" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -98,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyNumbers" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day6.newClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyPeople" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -124,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyWater" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyWater" />
         <item itemvalue="Application.MyPeople" />
         <item itemvalue="Application.MyBubles" />
         <item itemvalue="Application.MyNoodles" />
         <item itemvalue="Application.MyDoubles" />
-        <item itemvalue="Application.MyNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -401,12 +400,12 @@
       <option name="project" value="LOCAL" />
       <updated>1679690783207</updated>
     </task>
-    <task id="LOCAL-00039" summary="The remark is fixed: &quot;добавить жигуль&quot;">
-      <created>1679572190739</created>
+    <task id="LOCAL-00039" summary="Task 12">
+      <created>1679691864592</created>
       <option name="number" value="00039" />
       <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1679572190739</updated>
+      <updated>1679691864592</updated>
     </task>
     <task id="LOCAL-00040" summary="The remark is fixed: &quot;добавить тире&quot;">
       <created>1679574364241</created>
@@ -415,7 +414,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679574364241</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,8 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="today's work" />
-    <MESSAGE value="Generic_task_two" />
     <MESSAGE value="Classwork_day8" />
     <MESSAGE value="Task_one" />
     <MESSAGE value="Task_one_2" />
@@ -457,6 +454,7 @@
     <MESSAGE value="Task 9" />
     <MESSAGE value="Task 10" />
     <MESSAGE value="Task 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 11" />
+    <MESSAGE value="Task 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 12" />
   </component>
 </project>
