@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 9">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyNoodles.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 10">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyBubles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +58,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyNoodles">
-    <configuration name="MyCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCars" />
+  <component name="RunManager" selected="Application.MyBubles">
+    <configuration name="MyBubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyBubles" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyBubles" />
         <item itemvalue="Application.MyNoodles" />
         <item itemvalue="Application.MyDoubles" />
         <item itemvalue="Application.MyNumbers" />
         <item itemvalue="Application.MyElements" />
-        <item itemvalue="Application.MyCars" />
       </list>
     </recent_temporary>
   </component>
@@ -387,12 +387,12 @@
       <option name="project" value="LOCAL" />
       <updated>1679688849000</updated>
     </task>
-    <task id="LOCAL-00037" summary="Done_task6">
-      <created>1679525341014</created>
+    <task id="LOCAL-00037" summary="Task 10">
+      <created>1679689656713</created>
       <option name="number" value="00037" />
       <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1679525341016</updated>
+      <updated>1679689656713</updated>
     </task>
     <task id="LOCAL-00038" summary="The remark is fixed: &quot;необходимо вывести в строку через пробел, сейчас же все с новой строки&quot;">
       <created>1679572031630</created>
@@ -415,7 +415,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679574364241</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,8 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String_task_printDublicateWorlds" />
-    <MESSAGE value="Task_seven_done" />
     <MESSAGE value="classwork_day6" />
     <MESSAGE value="task_one" />
     <MESSAGE value="today's work" />
@@ -459,6 +457,7 @@
     <MESSAGE value="Task 7" />
     <MESSAGE value="Task 8" />
     <MESSAGE value="Task 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 9" />
+    <MESSAGE value="Task 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 10" />
   </component>
 </project>
