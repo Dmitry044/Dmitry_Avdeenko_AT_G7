@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="The remark is fixed: &quot;добавить жигуль&quot;">
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day6/newClasses/myCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/myCars.java" afterDir="false" />
     </list>
@@ -58,7 +59,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myCars">
+  <component name="RunManager" selected="Application.MyElements">
     <configuration name="MyCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCities" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyVegetables" />
+    <configuration name="MyElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyElements" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyElements" />
         <item itemvalue="Application.myCars" />
         <item itemvalue="Application.MyCities" />
         <item itemvalue="Application.myBird" />
         <item itemvalue="Application.myCountries" />
-        <item itemvalue="Application.MyVegetables" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679572190739</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="The remark is fixed: &quot;добавить тире&quot;">
+      <created>1679574364241</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679574364241</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,6 +456,13 @@
     <MESSAGE value="Done_task6" />
     <MESSAGE value="The remark is fixed: &quot;необходимо вывести в строку через пробел, сейчас же все с новой строки&quot;" />
     <MESSAGE value="The remark is fixed: &quot;добавить жигуль&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="The remark is fixed: &quot;добавить жигуль&quot;" />
+    <MESSAGE value="Done_task3" />
+    <MESSAGE value="Done_task4" />
+    <MESSAGE value="Done_task5" />
+    <MESSAGE value="Done_task6" />
+    <MESSAGE value="The remark is fixed: &quot;необходимо вывести в строку через пробел, сейчас же все с новой строки&quot;" />
+    <MESSAGE value="The remark is fixed: &quot;добавить жигуль&quot;" />
+    <MESSAGE value="The remark is fixed: &quot;добавить тире&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remark: Заменил set на add" />
   </component>
 </project>
