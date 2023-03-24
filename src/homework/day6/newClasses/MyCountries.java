@@ -1,10 +1,9 @@
 package homework.day6.newClasses;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-public class myCountries {
+public class MyCountries {
     public static void main(String[] args) {
         List<String> countries = new ArrayList<>();
         countries.add("Андора");
