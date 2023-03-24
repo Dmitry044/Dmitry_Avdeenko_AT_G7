@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 8">
-      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyDoubles.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 9">
+      <change afterPath="$PROJECT_DIR$/src/homework/day6/newClasses/MyNoodles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,22 +58,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyDoubles">
+  <component name="RunManager" selected="Application.MyNoodles">
     <configuration name="MyCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCars" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day6.newClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyCities" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -111,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyNoodles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyNoodles" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day6.newClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day6.newClasses.MyNumbers" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyNoodles" />
         <item itemvalue="Application.MyDoubles" />
         <item itemvalue="Application.MyNumbers" />
         <item itemvalue="Application.MyElements" />
         <item itemvalue="Application.MyCars" />
-        <item itemvalue="Application.MyCities" />
       </list>
     </recent_temporary>
   </component>
@@ -380,12 +380,12 @@
       <option name="project" value="LOCAL" />
       <updated>1679682511363</updated>
     </task>
-    <task id="LOCAL-00036" summary="Done_task5">
-      <created>1679522296369</created>
+    <task id="LOCAL-00036" summary="Task 9">
+      <created>1679688849000</created>
       <option name="number" value="00036" />
       <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1679522296369</updated>
+      <updated>1679688849000</updated>
     </task>
     <task id="LOCAL-00037" summary="Done_task6">
       <created>1679525341014</created>
@@ -415,7 +415,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679574364241</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,8 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The task_6 is done" />
-    <MESSAGE value="The task_7" />
     <MESSAGE value="String_task_printDublicateWorlds" />
     <MESSAGE value="Task_seven_done" />
     <MESSAGE value="classwork_day6" />
@@ -460,6 +458,7 @@
     <MESSAGE value="The remark is fixed: &quot;добавить тире&quot;" />
     <MESSAGE value="Task 7" />
     <MESSAGE value="Task 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 8" />
+    <MESSAGE value="Task 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 9" />
   </component>
 </project>
