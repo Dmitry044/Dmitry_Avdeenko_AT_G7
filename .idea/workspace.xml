@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Classwork_day10">
-      <change afterPath="$PROJECT_DIR$/src/classwork/day10/Task1List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day10/Task2Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day10/Task3Symbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day10/Task4CountLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task1/IMyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task1/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task2/IMyinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task2/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task3/Classx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task3/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task4/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day9/task5/MyArrayCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day7/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Classwork_day10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -452,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679694190632</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Classwork_day10">
+      <created>1679955473265</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679955473265</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
