@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Classwork_day10" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 14">
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/ButterfliesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task1/IMyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task1/IMyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task1/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task2/IMyinterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task2/IMyinterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task2/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task3/Classx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task3/ClassX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task3/IMyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task3/IMyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task3/Runner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,26 +52,29 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="classwork.day9.task3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArray">
-    <configuration name="MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day9.task4.MyArray" />
+  <component name="RunManager" selected="Application.ButterfliesRunner">
+    <configuration name="ButterfliesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.ButterfliesRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day9.task4.*" />
+          <option name="PATTERN" value="homework.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day10.Task1List" />
+    <configuration name="MyVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyVegetables" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day10.*" />
+          <option name="PATTERN" value="classwork.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,25 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day10.Task2Sort" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day9.task1.Runner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3Symbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day10.Task3Symbols" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classwork.day10.*" />
+          <option name="PATTERN" value="classwork.day9.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,6 +114,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="classwork.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classwork.day9.task3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day9.task3.Runner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.day9.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyArray" />
+        <item itemvalue="Application.ButterfliesRunner" />
+        <item itemvalue="Application.classwork.day9.task3.Runner" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Task4CountLetters" />
-        <item itemvalue="Application.Task1List" />
-        <item itemvalue="Application.Task2Sort" />
-        <item itemvalue="Application.Task3Symbols" />
+        <item itemvalue="Application.MyVegetables" />
       </list>
     </recent_temporary>
   </component>

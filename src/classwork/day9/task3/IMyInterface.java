@@ -1,5 +1,6 @@
 package classwork.day9.task3;
 
+@FunctionalInterface
 public interface IMyInterface {
-    void doSomething(String something);
+    ClassX doSomething(String something);
 }
