@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task 14">
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/ButterfliesRunner.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task_one_butterfly">
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/FiguresRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task1/IMyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task1/IMyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task1/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task2/IMyinterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task2/IMyinterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task2/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task3/Classx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task3/ClassX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task3/IMyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task3/IMyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day9/task3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day9/task3/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ButterfliesRunner">
+  <component name="RunManager" selected="Application.FiguresRunner">
     <configuration name="ButterfliesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day8.ButterfliesRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day8.MyVegetables" />
+    <configuration name="FiguresRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.FiguresRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="PATTERN" value="homework.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FiguresRunner" />
         <item itemvalue="Application.ButterfliesRunner" />
         <item itemvalue="Application.classwork.day9.task3.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Task4CountLetters" />
-        <item itemvalue="Application.MyVegetables" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679955473265</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Task_one_butterfly">
+      <created>1680029325815</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1680029325815</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise_two" />
     <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
     <MESSAGE value="Remark: Заменил set на add" />
     <MESSAGE value="Done_task3" />
@@ -492,6 +491,7 @@
     <MESSAGE value="Task 13" />
     <MESSAGE value="Task 14" />
     <MESSAGE value="Classwork_day10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classwork_day10" />
+    <MESSAGE value="Task_one_butterfly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_one_butterfly" />
   </component>
 </project>
