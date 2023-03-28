@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task_one_butterfly">
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/FiguresRunner.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Task_two_figures">
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/CitiesRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +61,22 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FiguresRunner">
+  <component name="RunManager" selected="Application.CitiesRunner">
     <configuration name="ButterfliesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day8.ButterfliesRunner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CitiesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.CitiesRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -101,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4CountLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day10.Task4CountLetters" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classwork.day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="classwork.day9.task3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classwork.day9.task3.Runner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CitiesRunner" />
         <item itemvalue="Application.FiguresRunner" />
         <item itemvalue="Application.ButterfliesRunner" />
         <item itemvalue="Application.classwork.day9.task3.Runner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Task4CountLetters" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680029325815</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Task_two_figures">
+      <created>1680030155794</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1680030155794</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remark: Вместо 29 строки можно в 28 добавить + &quot;\n&quot; после counter" />
     <MESSAGE value="Remark: Заменил set на add" />
     <MESSAGE value="Done_task3" />
     <MESSAGE value="Done_task4" />
@@ -492,6 +498,7 @@
     <MESSAGE value="Task 14" />
     <MESSAGE value="Classwork_day10" />
     <MESSAGE value="Task_one_butterfly" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_one_butterfly" />
+    <MESSAGE value="Task_two_figures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_two_figures" />
   </component>
 </project>
