@@ -12,7 +12,7 @@ public class SparklingWater extends Water {
 
     public void pump(Bubble[] bubbles) {
         this.bubbles = bubbles;
-        setBubbles(Bubble)
+        //setBubbles(Bubble)
     }
 
     public void setOpened(boolean isOpened){
@@ -61,8 +61,7 @@ public class SparklingWater extends Water {
 
 
 
-    */
-/*public void degas() {
+public void degas() {
         int batchSize = 10 + 5 * getTemperature();
         int count = 0;
         while (bubbles != null && count < bubbles.length) {
@@ -77,7 +76,7 @@ public class SparklingWater extends Water {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
-            }*//*
+            }
 
 
 

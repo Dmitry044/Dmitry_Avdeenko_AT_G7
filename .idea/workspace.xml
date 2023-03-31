@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="Update gitignore">
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/ElementsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/NumbersModRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/NumbersRunner.java" afterDir="false" />
+    <list default="true" id="93949a1a-012e-424e-8b3f-2e406ee907a3" name="Changes" comment="task 7-9">
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/DoublesRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/boxing/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/boxing/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/composition/SparklingWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/composition/SparklingWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/composition/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/composition/Water.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +69,9 @@
       <recent name="$PROJECT_DIR$/out/production" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumbersModRunner">
-    <configuration name="ButterfliesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day8.ButterfliesRunner" />
+  <component name="RunManager" selected="Application.DoublesRunner">
+    <configuration name="DoublesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.DoublesRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -84,19 +85,6 @@
     </configuration>
     <configuration name="ElementsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day8.ElementsRunner" />
-      <module name="Dmitry_Avdeenko_AT_G7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FiguresRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day8.FiguresRunner" />
       <module name="Dmitry_Avdeenko_AT_G7" />
       <extension name="coverage">
         <pattern>
@@ -134,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.runner.Runner" />
+      <module name="Dmitry_Avdeenko_AT_G7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Dmitry_Avdeenko_AT_G7" />
       <method v="2">
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoublesRunner" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.NumbersModRunner" />
         <item itemvalue="Application.NumbersRunner" />
         <item itemvalue="Application.ElementsRunner" />
-        <item itemvalue="Application.ButterfliesRunner" />
-        <item itemvalue="Application.FiguresRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680217401288</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="task 7-9">
+      <created>1680299378496</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1680299378496</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The remark is fixed: &quot;необходимо вывести в строку через пробел, сейчас же все с новой строки&quot;" />
     <MESSAGE value="The remark is fixed: &quot;добавить жигуль&quot;" />
     <MESSAGE value="Done_task3" />
     <MESSAGE value="Done_task4" />
@@ -541,6 +548,7 @@
     <MESSAGE value="Task_five_countries" />
     <MESSAGE value="Update gitignore" />
     <MESSAGE value="task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1" />
+    <MESSAGE value="task 7-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 7-9" />
   </component>
 </project>
