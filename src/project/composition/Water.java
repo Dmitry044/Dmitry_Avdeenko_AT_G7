@@ -6,6 +6,9 @@ public class Water {
     private String smell = "no";
     private int temperature = 0;
 
+    public Water(Bubble[] bubbles) {
+    }
+
     public String getColor() {
         return color;
     }
@@ -36,6 +39,9 @@ public class Water {
 
     public void setTemperature(int temperature) {
         this.temperature = temperature;
+    }
+
+    public void setOpened(boolean b) {
     }
 }
 
